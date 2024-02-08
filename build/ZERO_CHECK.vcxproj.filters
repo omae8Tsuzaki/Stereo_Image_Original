@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\t-tsu\Documents\PROGRAM_FILE\workVSC\Stereo_Image_Original\build\CMakeFiles\08798eeb5d6c9ef49bbff76a5bbc1beb\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F8FA5081-1A5B-3A61-AA85-C7D172059375}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
